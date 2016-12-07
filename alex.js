@@ -128,21 +128,21 @@ if(random === 74) {
   var input = message.content.toUpperCase();
   if(input === "!TWITTER")
 {
-    message.channel.sendMessage("**[EAlexTWITTER]** https://twitter.com/einfachalex_");
+//censored
 }
 var input = message.content.toUpperCase();
 if(input === "!INSTA")
 {
-  message.channel.sendMessage("**[EAlexINSTAGRAM]** https://instagram.com/einfachalexyt/");
+//censored
 }
 var input = message.content.toUpperCase();
 if(input === "!YT")
 {
-  message.channel.sendMessage("**[EAlexYOUTUBE]** https://www.youtube.com/c/EinfachAlexander");
+//censored
 }
 if(input === "!PROJEKT")
 {
-  message.channel.sendMessage("**[EAlexPROJEKT]**\n[Projekt] ``ChristmasCraft``\n[Wie?] ``In #will-mitmachen will mitmachen schrieben``\n[Wann endlich..] ``Alex loost ein paar Leute in seinen Streams aus. Alle kommen rein.``\n");
+//censored
 }
 var input = message.content.toUpperCase();
 if(input === "!REGELWERK")
@@ -167,7 +167,7 @@ message.delete()
 /////////
 
 if(message.content.toUpperCase().startsWith("!STATS")) {
-  message.channel.sendMessage("[Ersteller] " + message.guild.owner.username + "\n[Erstellt] " + message.guild.createdAt + "\n[Userzahl] " + message.guild.memberCount + "\n[Standort] " + message.guild.region);// + "   \n[AFK-Kanal] " + message.guild.afkChannelID);
+//censored
 }
 
 ////////////////////////
